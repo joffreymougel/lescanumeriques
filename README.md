@@ -1,4 +1,4 @@
 # lescanumeriques
-projets fait avec les canums
+Projets fait avec les canumériques
 
-Ceci n'est qu'un test pour l'instant
+Ceci n'est qu'un test pour l'instant…
