@@ -1,0 +1,52 @@
+<div dir="auto">
+<table cellspacing="0" cellpadding="0" border="0">
+	<tbody>
+		<tr><td>
+		<table cellspacing="0" cellpadding="0" border="0">
+			<tbody>
+				<tr>
+					<td style="vertical-align:center; padding-right:10px;padding-left:20px;border-right:solid #F0532D 2px;">
+						<a href="http://lescanumeriques.fr"><img src="https://github.com/joffreymougel/lescanumeriques/blob/master/logo-light-signature.png" width="180" alt= "Logo Les Canumériques"></a>
+					</td>
+					<td>
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody>
+							<tr>
+								<td style="padding-top:10px; padding-left: 20px; color: rgb(102, 111, 142); font-size: 14px;">
+									<font face="Open Sans, sans-serif">
+										<b><span style="color: #171512;">Prénom Nom</span></b>
+										<br>
+										<span style="color: #60594D;">Fonction</span>
+									</font>
+								</td>
+							</tr>
+							<tr>
+								<td style="padding-bottom:10px; padding-left: 20px; color: rgb(102, 111, 142); font-size: 14px;">  
+									<font face="Open Sans, sans-serif">
+										<br>
+										<span>
+											<a href="tel:+33888888888" style="color:#2F0557;text-decoration:none">+33(0)888888888</a>
+											<br>
+											<a href="mailto:prénom@lescanumeriques.fr" style="color:#2F0557;text-decoration:none">prénom@lescanumeriques.fr</a>
+										</span>
+									</font>
+								</td>
+							</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table> 
+		</td></tr>
+		<tr> 
+			<td style="text-align: center; padding-top:10px; color: #60594D; font-size: 10px;">
+				<font face="Open Sans, sans-serif">
+					<a href="http://lescanumeriques.fr" style="color:#2F0557;text-decoration:none">www.lescanumeriques.fr</a><br>
+					Collectif lyonnais d'ind&eacute;pendants du num&eacute;rique.
+				</font>
+			</td> 
+		</tr>
+	</tbody>
+</table> 
+</div>
